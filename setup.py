@@ -22,6 +22,6 @@ setup(
         'numpy',
         'scipy',
         'numba',
-        'boxlib @ git+https://github.com/isarandi/boxlib.git',
+        'boxlib @ git+https://github.com/azharh2024/boxlib.git',
     ]
 )
